@@ -1,1 +1,5 @@
-# Automated_Analytical_Tools
+
+<!-- To run this File -->
+
+streamlit run Application.py
+
